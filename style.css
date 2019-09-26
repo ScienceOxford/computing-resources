@@ -1,7 +1,7 @@
 * {
   margin: 10px, 5px;
   padding: 10px, 5px;
-  min-width: 204px;
+
 }
 
 img {
@@ -16,6 +16,7 @@ body {
   font-size: 16px;
   margin-left: auto;
   margin-right: auto;
+  min-width: 204px;
   max-width: 600px;
 }
 
@@ -47,6 +48,7 @@ p {
 
 .links a {
   color: rgb(34, 35, 34);
+  font-size: 24px;
   border-radius: 3px;
   margin: 10px;
   padding: 12px;
