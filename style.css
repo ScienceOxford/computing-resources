@@ -1,7 +1,6 @@
 * {
   margin: 10px, 5px;
   padding: 10px, 5px;
-  max-width: 600px;
   min-width: 204px;
 }
 
@@ -14,6 +13,10 @@ body {
   background-color: rgb(235, 235, 235);
   font-family: "Roboto Condensed";
   text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
 }
 
 h1 {
@@ -28,7 +31,6 @@ h3 {
 
 p {
   color: rgb(34, 35, 34);
-  font-size: 16px;
 }
 
 .left {
