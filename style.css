@@ -1,6 +1,8 @@
 body {
   background-color: rgb(235, 235, 235);
   font-family: "Roboto Condensed";
+  max-width: 600px;
+  min-width: 200px;
   text-align: center;
 }
 
@@ -39,6 +41,8 @@ p {
 
 header {
   display: inline-block;
+  max-width: 600px;
+  min-width: 200px;
 }
 
 header img {
