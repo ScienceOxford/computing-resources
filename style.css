@@ -1,7 +1,6 @@
 body {
   background-color: rgb(235, 235, 235);
   font-family: "Roboto Condensed";
-  width: 400px;
   text-align: center;
 }
 
@@ -40,7 +39,6 @@ p {
 
 header {
   display: inline-block;
-  width: 400px;
 }
 
 header img {
