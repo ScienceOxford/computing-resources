@@ -1,21 +1,29 @@
+* {
+  margin: 10px, 5px;
+  padding: 10px, 5px;
+}
+
 body {
   background-color: rgb(235, 235, 235);
   font-family: "Roboto Condensed";
   max-width: 600px;
-  min-width: 200px;
+  min-width: 204px;
   text-align: center;
 }
 
 h1 {
   color: rgb(0, 133, 202);
+  font-size: 32px;
 }
 
 h3 {
   color: rgb(232, 119, 34);
+  font-size: 24px;
 }
 
 p {
   color: rgb(34, 35, 34);
+  font-size: 16px;
 }
 
 .left {
@@ -42,7 +50,7 @@ p {
 header {
   display: inline-block;
   max-width: 600px;
-  min-width: 200px;
+  min-width: 204px;
 }
 
 header img {
